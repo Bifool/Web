@@ -1,5 +1,5 @@
 :root {
-    --space-m: 2rem; /* Adjust this value as needed */
+    --space-m: clamp(1rem, 2vw + 1rem, 4rem); /* Adjust these values as needed */
 }
 
 #index {
