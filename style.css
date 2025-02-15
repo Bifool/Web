@@ -1,3 +1,7 @@
+:root {
+    --space-m: 2rem; /* Adjust this value as needed */
+}
+
 #index {
     font-family: 'Inter', sans-serif;
 }
